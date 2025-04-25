@@ -25,7 +25,7 @@ Link do vídeo:
 ## **Como Executar**
 
 1. **Clone ou baixe** este repositório.
-2. **Abra o projeto** em um editor de código (ex: VSCode, IntelliJ, Eclipse).
+2. **Abra o projeto** em um editor de código, como o VSCode.
 3. **Compile e execute** a classe `Main`.
 4. **Use o menu interativo** no terminal para cadastrar ou exibir funcionários.
 
