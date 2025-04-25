@@ -4,7 +4,7 @@
 
 Este projeto simula um **sistema de cadastro de funcionários** de uma empresa, permitindo o cadastro e a exibição de diferentes tipos de funcionários (**Gerente**, **Desenvolvedor**, **Estagiário**).
 
-Link do vídeo: 
+Link do vídeo: https://drive.google.com/file/d/1t8oduUuNqK0n7rW_6RiXjTsBCzlBbeUx/view?usp=sharing
 
 ## **Funcionalidades**
 
